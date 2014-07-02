@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"注册成功.html",
+  "generationDate":new Date(1403073195017.12),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"e38e269a3710414283e7212e2ae9ad1c",
+    "type":"Axure:Page",
+    "name":"注册成功",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"0a375416fcf64268bfb7f70912bfff74",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":813}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"cf95c73175f0419d967d109bbcd97c04",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":813}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/注册成功/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "0a375416fcf64268bfb7f70912bfff74":{
+      "scriptId":"u0"},
+    "cf95c73175f0419d967d109bbcd97c04":{
+      "scriptId":"u1"}}});

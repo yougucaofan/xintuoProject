@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"奖励金.html",
+  "generationDate":new Date(1403073208310.88),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"e87acf7d888144a1a1c3dcaa3ef25ea8",
+    "type":"Axure:Page",
+    "name":"奖励金",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"a509092c6a064c99969018a1265c69c8",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":1036}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"bb91f38da65643cbb14f752d26692e4a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":1036}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/奖励金/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "a509092c6a064c99969018a1265c69c8":{
+      "scriptId":"u0"},
+    "bb91f38da65643cbb14f752d26692e4a":{
+      "scriptId":"u1"}}});

@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"资管研究-月报.html",
+  "generationDate":new Date(1403073202382.54),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"28cad287cee24eb5a068dfb07a49888f",
+    "type":"Axure:Page",
+    "name":"资管研究-月报",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"9eedcffe09dd45529bf957cf7c994582",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":3013}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"db76d6c0f61c4fa19fb57899da011f6b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":3013}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/资管研究-月报/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "9eedcffe09dd45529bf957cf7c994582":{
+      "scriptId":"u0"},
+    "db76d6c0f61c4fa19fb57899da011f6b":{
+      "scriptId":"u1"}}});

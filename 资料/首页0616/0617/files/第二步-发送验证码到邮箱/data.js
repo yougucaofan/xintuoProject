@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"第二步-发送验证码到邮箱.html",
+  "generationDate":new Date(1403073196058.18),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"e3870e1e20c74382b368e1529645ea99",
+    "type":"Axure:Page",
+    "name":"第二步-发送验证码到邮箱",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"3e41f0703d7a4402acbff17d83047193",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":864}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"702b42df1e4d4871a650a1c79dcd4ef7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":864}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/第二步-发送验证码到邮箱/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "3e41f0703d7a4402acbff17d83047193":{
+      "scriptId":"u0"},
+    "702b42df1e4d4871a650a1c79dcd4ef7":{
+      "scriptId":"u1"}}});

@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"信托公司详情页-首页.html",
+  "generationDate":new Date(1403073197047.24),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"2488179beb594c4088504795a2ea6fe9",
+    "type":"Axure:Page",
+    "name":"信托公司详情页-首页",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"e2e2a05d55054636aaec87dd51554cb0",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":2000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"075bfe9ccf004f39b8abdc9432456084",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":2000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/信托公司详情页-首页/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "e2e2a05d55054636aaec87dd51554cb0":{
+      "scriptId":"u0"},
+    "075bfe9ccf004f39b8abdc9432456084":{
+      "scriptId":"u1"}}});

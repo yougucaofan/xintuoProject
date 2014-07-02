@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"收藏产品.html",
+  "generationDate":new Date(1403073205678.73),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"b7d467478f1b4bd9b95638abde3811a8",
+    "type":"Axure:Page",
+    "name":"收藏产品",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"3d0beff7013a4a87b5896c5a2e938d6a",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":1158}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9321959ba1284558a308f99ff9ba7f63",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":1158}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/收藏产品/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "3d0beff7013a4a87b5896c5a2e938d6a":{
+      "scriptId":"u0"},
+    "9321959ba1284558a308f99ff9ba7f63":{
+      "scriptId":"u1"}}});

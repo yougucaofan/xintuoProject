@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"快速通道找客服.html",
+  "generationDate":new Date(1403073193174.02),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"ddf2e5eab88b4c55abff374f595b6154",
+    "type":"Axure:Page",
+    "name":"快速通道找客服",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"aea0f09d648c484bbbfbf4cd7df6eb42",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":3808}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7b6caed7a3c146b4a6c9cb5e8b8afaef",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":3808}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/快速通道找客服/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "aea0f09d648c484bbbfbf4cd7df6eb42":{
+      "scriptId":"u0"},
+    "7b6caed7a3c146b4a6c9cb5e8b8afaef":{
+      "scriptId":"u1"}}});

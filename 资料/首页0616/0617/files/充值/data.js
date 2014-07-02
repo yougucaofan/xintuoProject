@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"充值.html",
+  "generationDate":new Date(1403073207946.86),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"f912d4159694495b9c51284c71f8ce64",
+    "type":"Axure:Page",
+    "name":"充值",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"d9b57431e2c24a2e9cf838fe46ef8fb3",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":1036}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"40cc56d5742447d9b0d680e35fb15910",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":1036}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/充值/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "d9b57431e2c24a2e9cf838fe46ef8fb3":{
+      "scriptId":"u0"},
+    "40cc56d5742447d9b0d680e35fb15910":{
+      "scriptId":"u1"}}});

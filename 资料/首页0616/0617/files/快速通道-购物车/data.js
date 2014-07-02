@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"快速通道-购物车.html",
+  "generationDate":new Date(1403073193250.02),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"3c2ae5ebaa5749e386339bcbbd3db9d1",
+    "type":"Axure:Page",
+    "name":"快速通道-购物车",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"d475c670967b4a42bc003f2180205659",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":3808}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"abb6cbb951b344c7bd60ec0e64272357",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":3808}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/快速通道-购物车/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "d475c670967b4a42bc003f2180205659":{
+      "scriptId":"u0"},
+    "abb6cbb951b344c7bd60ec0e64272357":{
+      "scriptId":"u1"}}});

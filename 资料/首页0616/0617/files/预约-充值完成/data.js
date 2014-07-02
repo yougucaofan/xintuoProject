@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"预约-充值完成.html",
+  "generationDate":new Date(1403073216464.35),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"5ea2bdf0dac842edadb846f53482d6f2",
+    "type":"Axure:Page",
+    "name":"预约-充值完成",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"d04b51736e554aeba465870cca842509",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":887}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"50991f57c7f94ebd800740eb1d25275e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":887}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/预约-充值完成/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "d04b51736e554aeba465870cca842509":{
+      "scriptId":"u0"},
+    "50991f57c7f94ebd800740eb1d25275e":{
+      "scriptId":"u1"}}});

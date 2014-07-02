@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"资管公司列表.html",
+  "generationDate":new Date(1403073196453.2),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"da312a54640a46b18abc69ab88e1141f",
+    "type":"Axure:Page",
+    "name":"资管公司列表",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"a19722ac594340cb849d86dcd93b5416",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":1581}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"77258e7fdb634e8187960e7ede6ad7dc",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":1581}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/资管公司列表/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "a19722ac594340cb849d86dcd93b5416":{
+      "scriptId":"u0"},
+    "77258e7fdb634e8187960e7ede6ad7dc":{
+      "scriptId":"u1"}}});

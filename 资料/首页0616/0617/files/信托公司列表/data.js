@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"信托公司列表.html",
+  "generationDate":new Date(1403073196870.23),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"fe0a20758a0046e59988a1a32b450e8c",
+    "type":"Axure:Page",
+    "name":"信托公司列表",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"e44d07fb83864ddc89eaa5bae2e35fa6",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":1581}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"79eb38b0662f431c9bddd772f750a29c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":1581}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/信托公司列表/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "e44d07fb83864ddc89eaa5bae2e35fa6":{
+      "scriptId":"u0"},
+    "79eb38b0662f431c9bddd772f750a29c":{
+      "scriptId":"u1"}}});

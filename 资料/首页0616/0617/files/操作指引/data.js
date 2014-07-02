@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"操作指引.html",
+  "generationDate":new Date(1403073212635.13),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"d88dbd723f8f42db9353d688801c2fe9",
+    "type":"Axure:Page",
+    "name":"操作指引",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"e4542b62be2543689c3bd6005c79a220",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1366,
+              "height":2784}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"04fa48ad5e8c47098e94ef1ff5c12534",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1366,
+                  "height":2784}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/操作指引/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "e4542b62be2543689c3bd6005c79a220":{
+      "scriptId":"u0"},
+    "04fa48ad5e8c47098e94ef1ff5c12534":{
+      "scriptId":"u1"}}});

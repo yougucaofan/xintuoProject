@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"理财导读.html",
+  "generationDate":new Date(1403073212737.14),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"8ce987eb493b46deb4da9c8cbec8ddb6",
+    "type":"Axure:Page",
+    "name":"理财导读",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"c0ce3d23c7464f3ca2db7ac70ba10c57",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1366,
+              "height":1600}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5048b422eb8648409929ae3db9a63867",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1366,
+                  "height":1600}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/理财导读/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "c0ce3d23c7464f3ca2db7ac70ba10c57":{
+      "scriptId":"u0"},
+    "5048b422eb8648409929ae3db9a63867":{
+      "scriptId":"u1"}}});

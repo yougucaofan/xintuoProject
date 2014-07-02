@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"第二步-输入手机方式找回.html",
+  "generationDate":new Date(1403073195777.17),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"b9a0d03a73964683b186b8a664b458ab",
+    "type":"Axure:Page",
+    "name":"第二步-输入手机方式找回",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"88cae3193f91499989912b49f67c0524",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":864}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0a1f0570818047ac83397d3a180f77a6",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":864}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/第二步-输入手机方式找回/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "88cae3193f91499989912b49f67c0524":{
+      "scriptId":"u0"},
+    "0a1f0570818047ac83397d3a180f77a6":{
+      "scriptId":"u1"}}});

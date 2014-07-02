@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"管理团队.html",
+  "generationDate":new Date(1403073210888.03),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"f03998f7432d4484a1cf0efcd923f6fb",
+    "type":"Axure:Page",
+    "name":"管理团队",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"6cc183e1db484180afff0f6d8adaa7ba",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1366,
+              "height":1243}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"96437664f51545f2989d8998201add70",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1366,
+                  "height":1243}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/管理团队/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "6cc183e1db484180afff0f6d8adaa7ba":{
+      "scriptId":"u0"},
+    "96437664f51545f2989d8998201add70":{
+      "scriptId":"u1"}}});

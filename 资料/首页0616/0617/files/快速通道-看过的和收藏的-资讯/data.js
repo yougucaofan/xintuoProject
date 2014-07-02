@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"快速通道-看过的和收藏的-资讯.html",
+  "generationDate":new Date(1403073190408.86),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"4578447da377465fa271bb9eb2d01843",
+    "type":"Axure:Page",
+    "name":"快速通道-看过的和收藏的-资讯",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"2f0a514015894420a756707dc73ee809",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":3808}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"01cba2d1d69b48b781268ab5b16cfe98",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":3808}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/快速通道-看过的和收藏的-资讯/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "2f0a514015894420a756707dc73ee809":{
+      "scriptId":"u0"},
+    "01cba2d1d69b48b781268ab5b16cfe98":{
+      "scriptId":"u1"}}});

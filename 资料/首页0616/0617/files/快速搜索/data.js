@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"快速搜索.html",
+  "generationDate":new Date(1403073194065.07),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"4752b3b464494899bf6bf5ee0692f908",
+    "type":"Axure:Page",
+    "name":"快速搜索",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"0e95cd03b02c4a229293f603de64ff6a",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":3808}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8c34681e2f624145a76eb614f06b1e54",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":3808}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/快速搜索/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "0e95cd03b02c4a229293f603de64ff6a":{
+      "scriptId":"u0"},
+    "8c34681e2f624145a76eb614f06b1e54":{
+      "scriptId":"u1"}}});

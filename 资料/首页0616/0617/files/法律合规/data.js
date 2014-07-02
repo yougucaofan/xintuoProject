@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"法律合规.html",
+  "generationDate":new Date(1403073213578.18),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"0010017ebc0047919616beb3da31eb80",
+    "type":"Axure:Page",
+    "name":"法律合规",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"37299cd95c6f439a8fc45151e5746c20",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1366,
+              "height":1039}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f3e07595e909476d949494ba6a22361b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1366,
+                  "height":1039}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/法律合规/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "37299cd95c6f439a8fc45151e5746c20":{
+      "scriptId":"u0"},
+    "f3e07595e909476d949494ba6a22361b":{
+      "scriptId":"u1"}}});

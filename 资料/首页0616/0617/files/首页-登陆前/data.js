@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"首页-登陆前.html",
+  "generationDate":new Date(1403073184801.54),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"11facd27d8fe4949b266c24aa13e2e86",
+    "type":"Axure:Page",
+    "name":"首页-登陆前",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"d61f51eff05f4c6e9b6ff7ee433f9b8c",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":3808}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"39edd32b5bc64a89916f10b65e6bcfbb",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":3808}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/首页-登陆前/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "d61f51eff05f4c6e9b6ff7ee433f9b8c":{
+      "scriptId":"u0"},
+    "39edd32b5bc64a89916f10b65e6bcfbb":{
+      "scriptId":"u1"}}});

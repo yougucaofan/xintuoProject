@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"收益计算器.html",
+  "generationDate":new Date(1403073190841.88),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"7bdf3b3ed71b4248b850b583acf804b9",
+    "type":"Axure:Page",
+    "name":"收益计算器",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"a736dbe04ecc48b3b6cf9073df7cbf3d",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":3808}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"386217e2e8e047d1a63687af8f7aa2de",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":3808}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/收益计算器/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "a736dbe04ecc48b3b6cf9073df7cbf3d":{
+      "scriptId":"u0"},
+    "386217e2e8e047d1a63687af8f7aa2de":{
+      "scriptId":"u1"}}});

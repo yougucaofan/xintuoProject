@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"结束的活动.html",
+  "generationDate":new Date(1403073203724.62),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"8d42d2800aad4a8283922377ed603379",
+    "type":"Axure:Page",
+    "name":"结束的活动",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"a612277152db473e8a99b05fd1c313b7",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":2013}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"afb8382d3ab0488da0134e4072411872",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":2013}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/结束的活动/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "a612277152db473e8a99b05fd1c313b7":{
+      "scriptId":"u0"},
+    "afb8382d3ab0488da0134e4072411872":{
+      "scriptId":"u1"}}});

@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"预约-提示交定金.html",
+  "generationDate":new Date(1403073215303.28),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"615cfcbe00a746dd86381111e2475ba7",
+    "type":"Axure:Page",
+    "name":"预约-提示交定金",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"3f9feb16288c4f4984ec5ace23c8d497",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":887}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c9720755f520406ebd400781dc2a79a8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":887}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/预约-提示交定金/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "3f9feb16288c4f4984ec5ace23c8d497":{
+      "scriptId":"u0"},
+    "c9720755f520406ebd400781dc2a79a8":{
+      "scriptId":"u1"}}});

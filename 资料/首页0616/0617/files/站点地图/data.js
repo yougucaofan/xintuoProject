@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"站点地图.html",
+  "generationDate":new Date(1403073214265.22),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"40837f24a90b4c41b0064df8e0dd7c3c",
+    "type":"Axure:Page",
+    "name":"站点地图",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"fae8d0651e9f4bbc890fced5d3448eb6",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1366,
+              "height":1699}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ae7dcd9af5fd4c0aa06f567a4d92d934",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1366,
+                  "height":1699}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/站点地图/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "fae8d0651e9f4bbc890fced5d3448eb6":{
+      "scriptId":"u0"},
+    "ae7dcd9af5fd4c0aa06f567a4d92d934":{
+      "scriptId":"u1"}}});

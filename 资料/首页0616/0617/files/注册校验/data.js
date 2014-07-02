@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"注册校验.html",
+  "generationDate":new Date(1403073194305.08),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"61ca044b652d4d809318ee2f4a416fe7",
+    "type":"Axure:Page",
+    "name":"注册校验",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"d547411e765547ba932359f991be58dd",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1366,
+              "height":1000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"161b02c01f5e4bba95bcb9f87c28f106",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1366,
+                  "height":1000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/注册校验/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "d547411e765547ba932359f991be58dd":{
+      "scriptId":"u0"},
+    "161b02c01f5e4bba95bcb9f87c28f106":{
+      "scriptId":"u1"}}});

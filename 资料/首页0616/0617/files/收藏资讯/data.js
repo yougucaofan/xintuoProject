@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"收藏资讯.html",
+  "generationDate":new Date(1403073206284.77),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"25595d19958a40d78f7ec7152f65e400",
+    "type":"Axure:Page",
+    "name":"收藏资讯",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"6d4aecd73ed94432960ee5d26f03886d",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":1159}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9d7d12788884486c931f065df67df552",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":1159}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/收藏资讯/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "6d4aecd73ed94432960ee5d26f03886d":{
+      "scriptId":"u0"},
+    "9d7d12788884486c931f065df67df552":{
+      "scriptId":"u1"}}});

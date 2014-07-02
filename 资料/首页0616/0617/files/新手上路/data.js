@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"新手上路.html",
+  "generationDate":new Date(1403073212332.11),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"bcc00554eece40d3be066276f5fc1c63",
+    "type":"Axure:Page",
+    "name":"新手上路",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"44c38ca2cff34fe6a7681fa2ad74240b",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":3256}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a5c5e788ef384780a283b325d25f7a01",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":3256}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/新手上路/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "44c38ca2cff34fe6a7681fa2ad74240b":{
+      "scriptId":"u0"},
+    "a5c5e788ef384780a283b325d25f7a01":{
+      "scriptId":"u1"}}});

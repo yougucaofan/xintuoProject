@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"过程透明.html",
+  "generationDate":new Date(1403073213081.16),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"ad485b7b18034ef987582dbe0d0f9b7a",
+    "type":"Axure:Page",
+    "name":"过程透明",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"9ee851af3d7043c49e89e851b1650592",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1366,
+              "height":1270}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"485fee8557fe4ee9aad9bf9ed7bfdc11",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1366,
+                  "height":1270}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/过程透明/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "9ee851af3d7043c49e89e851b1650592":{
+      "scriptId":"u0"},
+    "485fee8557fe4ee9aad9bf9ed7bfdc11":{
+      "scriptId":"u1"}}});

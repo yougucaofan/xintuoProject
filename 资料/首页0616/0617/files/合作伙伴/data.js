@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"合作伙伴.html",
+  "generationDate":new Date(1403073211688.08),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"7b046aee8a144c088f9658daf077fd1c",
+    "type":"Axure:Page",
+    "name":"合作伙伴",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"66858958f50e412aa147b22ee25eb478",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1366,
+              "height":1353}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"df1e3337c3f1407b8c4ea7b0a296c2aa",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1366,
+                  "height":1353}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/合作伙伴/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "66858958f50e412aa147b22ee25eb478":{
+      "scriptId":"u0"},
+    "df1e3337c3f1407b8c4ea7b0a296c2aa":{
+      "scriptId":"u1"}}});

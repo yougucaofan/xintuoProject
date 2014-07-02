@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"第三步-密码重置.html",
+  "generationDate":new Date(1403073196186.19),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"6c73c2e48eb34540ba45f025bef05ae1",
+    "type":"Axure:Page",
+    "name":"第三步-密码重置",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"d66153aa90f94a15822647f8c4dda92c",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":864}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fa978d5fef37429bbdd8652b61eb3905",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":864}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/第三步-密码重置/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "d66153aa90f94a15822647f8c4dda92c":{
+      "scriptId":"u0"},
+    "fa978d5fef37429bbdd8652b61eb3905":{
+      "scriptId":"u1"}}});

@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"快速通道-折叠-登陆后.html",
+  "generationDate":new Date(1403073189250.79),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"6182b00a2faa470390a6257c139477bc",
+    "type":"Axure:Page",
+    "name":"快速通道-折叠-登陆后",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"0be27cc6f36546eb92ad35a629455080",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":3808}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c6d518860e0c490dbdfc047b47c8dbad",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":3808}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/快速通道-折叠-登陆后/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "0be27cc6f36546eb92ad35a629455080":{
+      "scriptId":"u0"},
+    "c6d518860e0c490dbdfc047b47c8dbad":{
+      "scriptId":"u1"}}});

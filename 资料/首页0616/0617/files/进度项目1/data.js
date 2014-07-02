@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"进度项目1.html",
+  "generationDate":new Date(1403073205462.72),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"53cd1d288c8b4267ace05c9f90df46e0",
+    "type":"Axure:Page",
+    "name":"进度项目1",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"a3ea4ca3ef5743adb794f82e78c82096",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":1212}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"04d39368fee14c168c812f4927482dba",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":1212}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/进度项目1/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "a3ea4ca3ef5743adb794f82e78c82096":{
+      "scriptId":"u0"},
+    "04d39368fee14c168c812f4927482dba":{
+      "scriptId":"u1"}}});

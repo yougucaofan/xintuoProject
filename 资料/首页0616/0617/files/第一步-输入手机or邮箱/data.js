@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"第一步-输入手机or邮箱.html",
+  "generationDate":new Date(1403073195678.16),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"c60d482c8b314efcb67b855549b56d82",
+    "type":"Axure:Page",
+    "name":"第一步-输入手机or邮箱",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"dfffcd4ec1aa4e65866f7b0d6264e51d",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":864}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"80b8761f7ae044d99dfa84ac46c266c4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":864}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/第一步-输入手机or邮箱/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "dfffcd4ec1aa4e65866f7b0d6264e51d":{
+      "scriptId":"u0"},
+    "80b8761f7ae044d99dfa84ac46c266c4":{
+      "scriptId":"u1"}}});

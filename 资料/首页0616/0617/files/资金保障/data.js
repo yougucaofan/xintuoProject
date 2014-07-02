@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"资金保障.html",
+  "generationDate":new Date(1403073213415.17),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"0611c2fbb11a485bb28c4228a1b60cbb",
+    "type":"Axure:Page",
+    "name":"资金保障",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"3be286719d9641b78432345f2cc73fbe",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1366,
+              "height":1059}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f79a1823d51a46808ea5be31557e5c99",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1366,
+                  "height":1059}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/资金保障/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "3be286719d9641b78432345f2cc73fbe":{
+      "scriptId":"u0"},
+    "f79a1823d51a46808ea5be31557e5c99":{
+      "scriptId":"u1"}}});

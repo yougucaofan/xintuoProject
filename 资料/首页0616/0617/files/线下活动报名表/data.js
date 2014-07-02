@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"线下活动报名表.html",
+  "generationDate":new Date(1403073203034.58),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"ddfb915125d940949791ff18d6af922c",
+    "type":"Axure:Page",
+    "name":"线下活动报名表",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"9f598d3771624fe29fbb5fb221cabf4a",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":1476}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5bcd49e354094f95936876d1d0adbc9e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":1476}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/线下活动报名表/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "9f598d3771624fe29fbb5fb221cabf4a":{
+      "scriptId":"u0"},
+    "5bcd49e354094f95936876d1d0adbc9e":{
+      "scriptId":"u1"}}});

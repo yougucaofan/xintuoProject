@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"提现.html",
+  "generationDate":new Date(1403073207844.86),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"947e8b492bd6426598c3a198441a71c1",
+    "type":"Axure:Page",
+    "name":"提现",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"1bc462f6b862483abdbd05674922e32e",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":1040}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9a0fed0b2a534582a1b04252d2b4e693",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":1040}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/提现/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "1bc462f6b862483abdbd05674922e32e":{
+      "scriptId":"u0"},
+    "9a0fed0b2a534582a1b04252d2b4e693":{
+      "scriptId":"u1"}}});

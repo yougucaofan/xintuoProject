@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"媒体报道.html",
+  "generationDate":new Date(1403073211181.05),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"57c947cc8dc740c09a697545bd884265",
+    "type":"Axure:Page",
+    "name":"媒体报道",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"a56e7c49e49547f3a0d2cfd906a4c1ff",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1366,
+              "height":1676}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"caf724b0969b47b89d7070b6841be752",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1366,
+                  "height":1676}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/媒体报道/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "a56e7c49e49547f3a0d2cfd906a4c1ff":{
+      "scriptId":"u0"},
+    "caf724b0969b47b89d7070b6841be752":{
+      "scriptId":"u1"}}});

@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"资管产品列表-对比.html",
+  "generationDate":new Date(1403073198244.31),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"c3c0bf578a4d47de9abd08ad62147dde",
+    "type":"Axure:Page",
+    "name":"资管产品列表-对比",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"60626f36d8304d3b9c25db14dbe96dcd",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":833}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a4f78a22790d4b8bb1811de528b3a820",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":833}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/资管产品列表-对比/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "60626f36d8304d3b9c25db14dbe96dcd":{
+      "scriptId":"u0"},
+    "a4f78a22790d4b8bb1811de528b3a820":{
+      "scriptId":"u1"}}});

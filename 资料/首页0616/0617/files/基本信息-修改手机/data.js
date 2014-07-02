@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"基本信息-修改手机.html",
+  "generationDate":new Date(1403073209259.94),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"fb0a9aec5a0c4b14b8f8787b7e07d328",
+    "type":"Axure:Page",
+    "name":"基本信息-修改手机",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"4fcc65cfc9064e9f973ee1b7ce503c85",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1366,
+              "height":1069}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"27eb33d201224926bf03b6e1c816be4b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1366,
+                  "height":1069}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/基本信息-修改手机/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "4fcc65cfc9064e9f973ee1b7ce503c85":{
+      "scriptId":"u0"},
+    "27eb33d201224926bf03b6e1c816be4b":{
+      "scriptId":"u1"}}});

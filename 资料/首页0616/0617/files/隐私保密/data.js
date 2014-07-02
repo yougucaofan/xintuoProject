@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"隐私保密.html",
+  "generationDate":new Date(1403073213178.16),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"5f56defba04b4c1887a6b010d2d109ab",
+    "type":"Axure:Page",
+    "name":"隐私保密",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"a7a0823df6964bc3944f1dbacf92dcc2",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1366,
+              "height":1429}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b6e769648e7741219c3d0ac5a3b365ef",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1366,
+                  "height":1429}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/隐私保密/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "a7a0823df6964bc3944f1dbacf92dcc2":{
+      "scriptId":"u0"},
+    "b6e769648e7741219c3d0ac5a3b365ef":{
+      "scriptId":"u1"}}});

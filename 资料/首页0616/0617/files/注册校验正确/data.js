@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"注册校验正确.html",
+  "generationDate":new Date(1403073194824.11),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"b63f5ad4ff074878bc663ddd8aa164c2",
+    "type":"Axure:Page",
+    "name":"注册校验正确",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"296a73b53563471db096b038785c8249",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1366,
+              "height":1000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3ef5eb937e6744a1a50f068c4b302520",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1366,
+                  "height":1000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/注册校验正确/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "296a73b53563471db096b038785c8249":{
+      "scriptId":"u0"},
+    "3ef5eb937e6744a1a50f068c4b302520":{
+      "scriptId":"u1"}}});

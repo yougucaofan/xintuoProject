@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"数据与信息安全.html",
+  "generationDate":new Date(1403073213489.18),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"c4fbe053127d4eadac4ca13aacd93c9d",
+    "type":"Axure:Page",
+    "name":"数据与信息安全",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"6d5664863c2f44609764c42c6c237190",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1366,
+              "height":1206}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"21520ceec6944ee197ff14abb295eecd",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1366,
+                  "height":1206}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/数据与信息安全/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "6d5664863c2f44609764c42c6c237190":{
+      "scriptId":"u0"},
+    "21520ceec6944ee197ff14abb295eecd":{
+      "scriptId":"u1"}}});

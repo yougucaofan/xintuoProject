@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"信托公司详情页-机构动态.html",
+  "generationDate":new Date(1403073197313.25),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"1e0db664d39c43ecbd37ccf0bcb2217d",
+    "type":"Axure:Page",
+    "name":"信托公司详情页-机构动态",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"7698ba58328142b0a1cac56e8b8c2750",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":1692}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5bd575a5be914c2fb54d4ded71022472",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":1692}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/信托公司详情页-机构动态/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "7698ba58328142b0a1cac56e8b8c2750":{
+      "scriptId":"u0"},
+    "5bd575a5be914c2fb54d4ded71022472":{
+      "scriptId":"u1"}}});

@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"资讯板块文章分类列表页.html",
+  "generationDate":new Date(1403073200609.44),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"a33adc14bbe040b2a52ee50a6f3defc9",
+    "type":"Axure:Page",
+    "name":"资讯板块文章分类列表页",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"1b1e021c23db41d5a4d3a0826d36300c",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":1998}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2fe36b921c58401989f968053930055e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":1998}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/资讯板块文章分类列表页/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "1b1e021c23db41d5a4d3a0826d36300c":{
+      "scriptId":"u0"},
+    "2fe36b921c58401989f968053930055e":{
+      "scriptId":"u1"}}});

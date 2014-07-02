@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"预约-预约成功.html",
+  "generationDate":new Date(1403073217059.38),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"c17230a77b434d0a98893fc84119f6be",
+    "type":"Axure:Page",
+    "name":"预约-预约成功",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"cf3fe6ea082349f88c6fb0b91e2c3092",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":887}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b967c641007644e3a42b4cec5555927f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":887}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/预约-预约成功/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "cf3fe6ea082349f88c6fb0b91e2c3092":{
+      "scriptId":"u0"},
+    "b967c641007644e3a42b4cec5555927f":{
+      "scriptId":"u1"}}});

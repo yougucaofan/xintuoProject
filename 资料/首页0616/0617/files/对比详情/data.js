@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"对比详情.html",
+  "generationDate":new Date(1403073199363.37),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"3524fa3609904427aa74cb2c420b2bd5",
+    "type":"Axure:Page",
+    "name":"对比详情",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"6dac3352e306475fac8527c7d39299d4",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":1969}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"12e5da20823545c783645422be8c31c1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":1969}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/对比详情/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "6dac3352e306475fac8527c7d39299d4":{
+      "scriptId":"u0"},
+    "12e5da20823545c783645422be8c31c1":{
+      "scriptId":"u1"}}});

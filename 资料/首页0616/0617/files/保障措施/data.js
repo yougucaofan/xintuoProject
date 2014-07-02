@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"保障措施.html",
+  "generationDate":new Date(1403073212974.15),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"d3bf10d3cbc4469a9d842576ab712a17",
+    "type":"Axure:Page",
+    "name":"保障措施",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"ced68bedc58644139358be179733ab7b",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1366,
+              "height":1232}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d4d19ae4b2d643ecbdf6736f13b4ffb3",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1366,
+                  "height":1232}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/保障措施/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "ced68bedc58644139358be179733ab7b":{
+      "scriptId":"u0"},
+    "d4d19ae4b2d643ecbdf6736f13b4ffb3":{
+      "scriptId":"u1"}}});

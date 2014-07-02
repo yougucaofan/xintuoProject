@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"消息中心.html",
+  "generationDate":new Date(1403073204954.69),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"de226afca7984941a1d084d934157c15",
+    "type":"Axure:Page",
+    "name":"消息中心",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"31aa241e8ac149079884c2828ec7942d",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":1159}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3050881f31db4dd697850fb0bef6b430",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":1159}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/消息中心/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "31aa241e8ac149079884c2828ec7942d":{
+      "scriptId":"u0"},
+    "3050881f31db4dd697850fb0bef6b430":{
+      "scriptId":"u1"}}});

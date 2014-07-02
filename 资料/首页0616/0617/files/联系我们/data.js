@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"联系我们.html",
+  "generationDate":new Date(1403073212011.09),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"f07812c60484453483f892edca766d4e",
+    "type":"Axure:Page",
+    "name":"联系我们",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"ef7436455ab04eec8c0a56ab454dbbb5",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1366,
+              "height":1353}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"62c9a500127f42fab60ee4284700d614",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1366,
+                  "height":1353}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/联系我们/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "ef7436455ab04eec8c0a56ab454dbbb5":{
+      "scriptId":"u0"},
+    "62c9a500127f42fab60ee4284700d614":{
+      "scriptId":"u1"}}});

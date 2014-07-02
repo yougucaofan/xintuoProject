@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"小额产品列表.html",
+  "generationDate":new Date(1403073198511.32),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"eb68e5f30790417cb6c6c023c811a329",
+    "type":"Axure:Page",
+    "name":"小额产品列表",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"8ab1fc67bcc04945864716a7858c0eb5",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":1658}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"65bd50c080b54d6a8eb5095d59b117b5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":1658}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/小额产品列表/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "8ab1fc67bcc04945864716a7858c0eb5":{
+      "scriptId":"u0"},
+    "65bd50c080b54d6a8eb5095d59b117b5":{
+      "scriptId":"u1"}}});

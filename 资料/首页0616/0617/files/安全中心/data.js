@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"安全中心.html",
+  "generationDate":new Date(1403073209345.94),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"f20d2de5a15d456f9e75cd9fddd306a9",
+    "type":"Axure:Page",
+    "name":"安全中心",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"36493716f0d54855a58f4d60b0f26ce6",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":1135}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9ec27a782a904be69b54cdbb5f52d738",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":1135}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/安全中心/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "36493716f0d54855a58f4d60b0f26ce6":{
+      "scriptId":"u0"},
+    "9ec27a782a904be69b54cdbb5f52d738":{
+      "scriptId":"u1"}}});

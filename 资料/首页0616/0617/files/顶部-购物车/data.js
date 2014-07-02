@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"顶部-购物车.html",
+  "generationDate":new Date(1403073186635.64),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"a9fe7e2fd3ff40bca299ece35c34223c",
+    "type":"Axure:Page",
+    "name":"顶部-购物车",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"124e5215101340d18c4da07f2f17843f",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":3900}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"684c67a697e54ed08b77cf51daf712e7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":3900}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/顶部-购物车/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "124e5215101340d18c4da07f2f17843f":{
+      "scriptId":"u0"},
+    "684c67a697e54ed08b77cf51daf712e7":{
+      "scriptId":"u1"}}});

@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"预约-手机输入.html",
+  "generationDate":new Date(1403073214704.25),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"0e5bf8495f70441bac44adebeb367a75",
+    "type":"Axure:Page",
+    "name":"预约-手机输入",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"c075998e8ac844b5afcc30c0230e4aed",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":887}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f9d704b92b074da183351d02a0234839",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":887}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/预约-手机输入/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "c075998e8ac844b5afcc30c0230e4aed":{
+      "scriptId":"u0"},
+    "f9d704b92b074da183351d02a0234839":{
+      "scriptId":"u1"}}});

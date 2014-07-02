@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"底部.html",
+  "generationDate":new Date(1403073210564.01),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"77bd1d004c4b4accbfdc61cfde09d2f9",
+    "type":"Axure:Page",
+    "name":"底部",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"3a791ef5c9054333a7af044382af024f",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":3728}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c102170c8fa94173a811e5eec175a422",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":3728}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/底部/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "3a791ef5c9054333a7af044382af024f":{
+      "scriptId":"u0"},
+    "c102170c8fa94173a811e5eec175a422":{
+      "scriptId":"u1"}}});

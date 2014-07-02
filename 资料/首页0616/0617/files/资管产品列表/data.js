@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"资管产品列表.html",
+  "generationDate":new Date(1403073197638.27),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"f8d640e6a9c141fdbf7abd79767ae141",
+    "type":"Axure:Page",
+    "name":"资管产品列表",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"49414072f90f40e3badfd0ad74a84065",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":2531}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"17d8111eda184c48938c50be193a5664",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":2531}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/资管产品列表/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "49414072f90f40e3badfd0ad74a84065":{
+      "scriptId":"u0"},
+    "17d8111eda184c48938c50be193a5664":{
+      "scriptId":"u1"}}});

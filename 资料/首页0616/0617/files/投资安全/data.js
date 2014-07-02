@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"投资安全.html",
+  "generationDate":new Date(1403073213273.17),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"9be096c97dc74c47944937a694c320f7",
+    "type":"Axure:Page",
+    "name":"投资安全",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"c65becae6ae5409fbc00494c01070ad5",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1366,
+              "height":1600}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b5344466ed4e4e74ac2290990cb94046",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1366,
+                  "height":1600}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/投资安全/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "c65becae6ae5409fbc00494c01070ad5":{
+      "scriptId":"u0"},
+    "b5344466ed4e4e74ac2290990cb94046":{
+      "scriptId":"u1"}}});

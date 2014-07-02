@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"网站声明.html",
+  "generationDate":new Date(1403073211559.07),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"4ad6bdd3a3584ea0b0cb896155e95b76",
+    "type":"Axure:Page",
+    "name":"网站声明",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"8aba6d80c9c447509434dcd9770d8f1c",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1366,
+              "height":1710}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1f8240bbf003433d9bab50306988a879",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1366,
+                  "height":1710}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/网站声明/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "8aba6d80c9c447509434dcd9770d8f1c":{
+      "scriptId":"u0"},
+    "1f8240bbf003433d9bab50306988a879":{
+      "scriptId":"u1"}}});

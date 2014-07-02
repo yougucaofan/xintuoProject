@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"线下活动——正在进行的活动.html",
+  "generationDate":new Date(1403073202745.56),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"4912b8181498480fabdf73bb62b9f656",
+    "type":"Axure:Page",
+    "name":"线下活动——正在进行的活动",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"6f08eaca2588474ea6fb717bc78b80c0",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":2064}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c624350b5f1f49bca3d7ae05fc219e38",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":2064}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/线下活动——正在进行的活动/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "6f08eaca2588474ea6fb717bc78b80c0":{
+      "scriptId":"u0"},
+    "c624350b5f1f49bca3d7ae05fc219e38":{
+      "scriptId":"u1"}}});

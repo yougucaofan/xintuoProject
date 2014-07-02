@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"我的大资管.html",
+  "generationDate":new Date(1403073204856.68),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"ffc4beda3df94974ba8a18e5b3e96d81",
+    "type":"Axure:Page",
+    "name":"我的大资管",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"c0d047bde2bf4175a20eab4e0ab5c860",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":1400}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2d6cc73374dc47599ebb3e8ebed03394",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":1400}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/我的大资管/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "c0d047bde2bf4175a20eab4e0ab5c860":{
+      "scriptId":"u0"},
+    "2d6cc73374dc47599ebb3e8ebed03394":{
+      "scriptId":"u1"}}});

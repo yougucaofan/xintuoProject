@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"客服中心.html",
+  "generationDate":new Date(1403073217389.4),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"99332df4502b40ac95dc4273bcbb2cef",
+    "type":"Axure:Page",
+    "name":"客服中心",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"351f43b1420048a299fd716e50fed67a",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":918}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f81be53d162443fb859046e7f6e7fcbd",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":918}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/客服中心/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "351f43b1420048a299fd716e50fed67a":{
+      "scriptId":"u0"},
+    "f81be53d162443fb859046e7f6e7fcbd":{
+      "scriptId":"u1"}}});

@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"第二步-输入邮箱方式找回.html",
+  "generationDate":new Date(1403073195959.18),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"422fd1069d19471aa3b08632c21cfd68",
+    "type":"Axure:Page",
+    "name":"第二步-输入邮箱方式找回",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"d5b2df844f164f5da87c68e784a90742",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":864}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3dedf26297844f12b6a98a06baa1b548",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":864}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/第二步-输入邮箱方式找回/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "d5b2df844f164f5da87c68e784a90742":{
+      "scriptId":"u0"},
+    "3dedf26297844f12b6a98a06baa1b548":{
+      "scriptId":"u1"}}});

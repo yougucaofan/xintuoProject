@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"提示.html",
+  "generationDate":new Date(1403073192501.98),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"2d2d0013046849a99a83a3a36fed2590",
+    "type":"Axure:Page",
+    "name":"提示",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"12b42f1ddabf485b871be8f4d45a0d02",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":3808}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c4306bce34884a91a7b2adf4306d0204",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":3808}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/提示/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "12b42f1ddabf485b871be8f4d45a0d02":{
+      "scriptId":"u0"},
+    "c4306bce34884a91a7b2adf4306d0204":{
+      "scriptId":"u1"}}});

@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"关联账户注册.html",
+  "generationDate":new Date(1403073195097.13),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"a3b23c985be7400abf17af6ad847571c",
+    "type":"Axure:Page",
+    "name":"关联账户注册",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"108351e0559b49fa960233f65149758c",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1366,
+              "height":1000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7e342cda3ebb4191b23e6124513994cc",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1366,
+                  "height":1000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/关联账户注册/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "108351e0559b49fa960233f65149758c":{
+      "scriptId":"u0"},
+    "7e342cda3ebb4191b23e6124513994cc":{
+      "scriptId":"u1"}}});

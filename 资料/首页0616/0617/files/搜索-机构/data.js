@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"搜索-机构.html",
+  "generationDate":new Date(1403073210219.99),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"07a0d19f066a4b9aba9393ff7fdda053",
+    "type":"Axure:Page",
+    "name":"搜索-机构",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"4f37ab41e7d544d283cb88732adb0725",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":1133}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"17ac8cae6ccd4f609b295c62beb55e23",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":1133}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/搜索-机构/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "4f37ab41e7d544d283cb88732adb0725":{
+      "scriptId":"u0"},
+    "17ac8cae6ccd4f609b295c62beb55e23":{
+      "scriptId":"u1"}}});

@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"充值完成.html",
+  "generationDate":new Date(1403073208046.87),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"253e4e0e915842a4a80ce9b779f2b814",
+    "type":"Axure:Page",
+    "name":"充值完成",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"f51b733d8d4d4caebe23049ac7a5aa18",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":1098}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"148957439eda42bd890ce7fbb3179e80",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":1098}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/充值完成/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "f51b733d8d4d4caebe23049ac7a5aa18":{
+      "scriptId":"u0"},
+    "148957439eda42bd890ce7fbb3179e80":{
+      "scriptId":"u1"}}});

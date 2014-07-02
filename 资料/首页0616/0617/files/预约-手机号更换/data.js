@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"预约-手机号更换.html",
+  "generationDate":new Date(1403073214941.26),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"eae02c48d1d143fca6851826ede2b705",
+    "type":"Axure:Page",
+    "name":"预约-手机号更换",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"6b6c698ee9c343db8c08983485eeed8e",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":887}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3dcae32e3be4492883ff449e118a5ba8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":887}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/预约-手机号更换/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "6b6c698ee9c343db8c08983485eeed8e":{
+      "scriptId":"u0"},
+    "3dcae32e3be4492883ff449e118a5ba8":{
+      "scriptId":"u1"}}});

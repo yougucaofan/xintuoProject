@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"社会责任.html",
+  "generationDate":new Date(1403073211382.06),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"eeabd87153474181992712f827e7eaa3",
+    "type":"Axure:Page",
+    "name":"社会责任",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"6a43594f543644da9a55f49b9d69f005",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1366,
+              "height":1735}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c5121c5faf864e53abe6482f55efb4ad",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1366,
+                  "height":1735}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/社会责任/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "6a43594f543644da9a55f49b9d69f005":{
+      "scriptId":"u0"},
+    "c5121c5faf864e53abe6482f55efb4ad":{
+      "scriptId":"u1"}}});

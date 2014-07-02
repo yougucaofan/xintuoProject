@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"账户余额（已开通）.html",
+  "generationDate":new Date(1403073207602.84),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"39a908a5fd454ec39dd409cc2a99206f",
+    "type":"Axure:Page",
+    "name":"账户余额（已开通）",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"6cdee027d57844fdbd58a35573df010c",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":1125}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"eef591797090458b815a00af3ffb0212",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":1125}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/账户余额（已开通）/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "6cdee027d57844fdbd58a35573df010c":{
+      "scriptId":"u0"},
+    "eef591797090458b815a00af3ffb0212":{
+      "scriptId":"u1"}}});

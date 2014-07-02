@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"修改基本信息.html",
+  "generationDate":new Date(1403073208923.92),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"fbe98ef67c98474da0b4977b31273b26",
+    "type":"Axure:Page",
+    "name":"修改基本信息",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"2050bc5d350d434097d55b37eb4a21da",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1366,
+              "height":1069}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"cc0ae888be5c4b73bcf6c5049be04729",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1366,
+                  "height":1069}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/修改基本信息/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "2050bc5d350d434097d55b37eb4a21da":{
+      "scriptId":"u0"},
+    "cc0ae888be5c4b73bcf6c5049be04729":{
+      "scriptId":"u1"}}});

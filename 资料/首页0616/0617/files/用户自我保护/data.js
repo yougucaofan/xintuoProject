@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"用户自我保护.html",
+  "generationDate":new Date(1403073214003.21),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"7b1e6c26b4f7448198ff33b221a4192a",
+    "type":"Axure:Page",
+    "name":"用户自我保护",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"cb3d75cf71f24cd4b281b8d40d5e6622",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1366,
+              "height":1576}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e715faf3a2794b8da471b9f6e0e89b02",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1366,
+                  "height":1576}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/用户自我保护/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "cb3d75cf71f24cd4b281b8d40d5e6622":{
+      "scriptId":"u0"},
+    "e715faf3a2794b8da471b9f6e0e89b02":{
+      "scriptId":"u1"}}});

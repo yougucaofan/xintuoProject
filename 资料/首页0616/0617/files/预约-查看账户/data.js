@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"预约-查看账户.html",
+  "generationDate":new Date(1403073216655.36),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"ebd31fee7edc4e96a72fcdf24099593b",
+    "type":"Axure:Page",
+    "name":"预约-查看账户",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"c3cfc95f9f704a2da724663e211b907b",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1342,
+              "height":887}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b5e7cb4a69dc447392769dab27571ed6",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":1342,
+                  "height":887}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/预约-查看账户/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "c3cfc95f9f704a2da724663e211b907b":{
+      "scriptId":"u0"},
+    "b5e7cb4a69dc447392769dab27571ed6":{
+      "scriptId":"u1"}}});
